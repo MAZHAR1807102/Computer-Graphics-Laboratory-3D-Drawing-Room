@@ -1,0 +1,28 @@
+﻿  main.cpp
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(556,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(366,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(366,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(366,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(874,74): warning C4305: '+=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(875,74): warning C4305: '-=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(876,74): warning C4305: '+=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(877,74): warning C4305: '-=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(878,74): warning C4305: '+=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(879,74): warning C4305: '-=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(880,70): warning C4305: '+=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(881,70): warning C4305: '-=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(882,70): warning C4305: '+=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(883,70): warning C4305: '-=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(884,70): warning C4305: '+=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(885,70): warning C4305: '-=': truncation from 'double' to 'float'
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(911,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(916,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(921,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(926,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(931,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(936,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(941,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(946,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(951,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\main.cpp(956,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  3D.vcxproj -> G:\4.2\Computer Graphics\Classroom-Drawing-From-Cube-main\3D\x64\Debug\3D.exe
